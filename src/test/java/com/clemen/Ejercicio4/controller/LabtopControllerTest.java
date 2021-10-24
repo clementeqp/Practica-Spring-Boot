@@ -117,13 +117,13 @@ class LabtopControllerTest {
     }
 
 
-    @Test
+    /*@Test
     void findOneById() {
         cargarDatos();
         ResponseEntity<Labtop> response = testRestTemplate.getForEntity("/api/labtops/1", Labtop.class);
         assertEquals(HttpStatus.OK, response.getStatusCode());
 
-    }
+    }*/
 
     @Test
     void findOneByIdEmpty() {
