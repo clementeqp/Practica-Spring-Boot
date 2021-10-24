@@ -45,7 +45,7 @@ Los métodos CRUD:
 
 Implementar swagger sobre el API REST de Laptop y verificar que funciona en la URL:
 
-http://localhost:8081/swagger-ui/
+http://localhost:port/swagger-ui/
 
 ## Ejercicio 9
 
